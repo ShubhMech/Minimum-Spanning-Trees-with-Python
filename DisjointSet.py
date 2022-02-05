@@ -1,7 +1,4 @@
-#   Created by Elshad Karimov 
-#   Copyright © 2021 AppMillers. All rights reserved.
 
-# Disjoint Set in Python
 
 class DisjointSet:
     def __init__(self, vertices):
